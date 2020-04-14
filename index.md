@@ -1,2 +1,2 @@
 ## Welcome
-Future home of my GitHub Pages website. For now 
+Future home of my GitHub Pages website.
